@@ -21,4 +21,3 @@ Curriculum:
 5.  C Programming: Advanced Data Types
 6.  Linux Basics: The Command Line Interface
 7.  C Programming: Using Linux Tools and Libraries
-
